@@ -1,32 +1,62 @@
 # pygame_labs
-# 🕹️ Python Mini Games Collection
+# 🎮 Python Mini Games Collection
 
-Welcome to the **Python Mini Games Collection** – a set of beginner-to-intermediate level games created using `tkinter` and Python! This project is a great demonstration of GUI programming, game logic, and interactive design.
+A collection of fun, small Python games made using `tkinter` and basic game logic — perfect for learning and practicing GUI development, logic building, and interactivity in Python.
+
+---
 
 ## 📦 Games Included
 
 ### 🎯 1. Wordle
-A clone of the popular word-guessing game. You have 6 tries to guess a 5-letter word. Color feedback helps you narrow down the correct word.
-- ✅ GUI built with `tkinter`
-- ✅ SQLite-based high score saving
-- ✅ Keyboard and mouse input support
+A clone of the popular word-guessing game.
+- Guess the 5-letter word in 6 tries
+- Green/yellow/gray feedback
+- Keyboard + mouse input
+- SQLite-based score saving
 
 ### 🧱 2. Breakout
-Classic arcade-style game where you bounce a ball with a paddle to break all the bricks.
-- ✅ Collision detection
-- ✅ Score tracking
-- ✅ Increasing difficulty
+Classic brick-breaking paddle game.
+- Bounce ball to destroy bricks
+- Score tracking
+- Progressive difficulty
 
 ### ⌛ 3. Disappearing Text
-Type in a given text, but hurry! The text disappears after a short delay.
-- ✅ Timed typing challenge
-- ✅ Great for improving speed and memory
-- ✅ Simple animation and fading effect
+Speed-typing challenge where text fades away after a few seconds.
+- Timed typing
+- Great for focus training
 
 ### ⌨️ 4. Typing Simulator
-Improve your typing speed and accuracy by typing random sentences or words shown on screen.
-- ✅ Real-time accuracy tracking
-- ✅ Words-per-minute (WPM) score
-- ✅ Randomized word display
+Improve typing speed and accuracy.
+- WPM and accuracy display
+- Real-time feedback
+
+### 🏓 5. Ping Pong
+Two-player paddle game (local multiplayer).
+- Keyboard controls (W/S and ↑/↓)
+- Ball bounce physics
+- Score tracking
+
+### 🐍 6. Snake Game
+Classic snake game in a Python window.
+- Food spawning
+- Score increases with length
+- Game-over on collision
+
+### ❓ 7. Quiz Game
+Multiple-choice quiz with scoring.
+- Predefined question bank
+- Score at the end
+- Highlight correct answers
+
+### ♠️ 8. Blackjack
+Simple card game against the computer.
+- Hit / Stand options
+- Random card dealing
+- Win/loss based on 21 rules
+
+### 🔼 9. Higher or Lower
+Guess if the next number is higher or lower.
+- Simple game logic
+- Fast-paced and fun
 
 ---
